@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1800" viewBox="0 0 900 1800">
+  <rect width="900" height="1800" fill="#F4F2EC"/>
+  <rect x="180" y="40" width="540" height="1720" rx="62" fill="#171717"/>
+  <rect x="198" y="58" width="504" height="1684" rx="48" fill="#FFFFFF"/>
+  <rect x="384" y="70" width="132" height="24" rx="12" fill="#171717"/>
+  <text x="235" y="145" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2E594A" letter-spacing="2">LITTLE LEMON</text>
+  <text x="235" y="177" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#777777" letter-spacing="4">CHICAGO</text>
+  <circle cx="646" cy="148" r="30" fill="#2E594A"/>
+  <circle cx="646" cy="137" r="9" fill="#F5C842"/>
+  <path d="M625 169 Q646 143 667 169" fill="none" stroke="#F5C842" stroke-width="8" stroke-linecap="round"/>
+  <rect x="224" y="220" width="452" height="360" rx="28" fill="#2E594A"/>
+  <text x="255" y="292" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#F5C842">Little Lemon</text>
+  <text x="255" y="337" font-family="Arial, sans-serif" font-size="27" font-weight="600" fill="#FFFFFF">Chicago</text>
+  <text x="255" y="385" font-family="Arial, sans-serif" font-size="19" fill="#FFFFFF">Family-owned Mediterranean</text>
+  <text x="255" y="415" font-family="Arial, sans-serif" font-size="19" fill="#FFFFFF">restaurant with traditional recipes</text>
+  <text x="255" y="445" font-family="Arial, sans-serif" font-size="19" fill="#FFFFFF">and a modern twist.</text>
+  <circle cx="604" cy="377" r="44" fill="#F5C842"/>
+  <path d="M582 396 L626 352 M588 352 Q609 344 626 352 Q630 373 611 390" stroke="#2E594A" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="255" y="485" width="390" height="62" rx="14" fill="#FFFFFF"/>
+  <circle cx="285" cy="516" r="11" fill="none" stroke="#777777" stroke-width="4"/>
+  <line x1="294" y1="525" x2="304" y2="535" stroke="#777777" stroke-width="4" stroke-linecap="round"/>
+  <text x="322" y="524" font-family="Arial, sans-serif" font-size="20" fill="#888888">Search menu</text>
+  <text x="235" y="650" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#2E594A">ORDER FOR DELIVERY</text>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="235" y="678" width="82" height="52" rx="25" fill="#2E594A"/><text x="276" y="711" fill="#FFFFFF" text-anchor="middle">All</text>
+    <rect x="328" y="678" width="125" height="52" rx="25" fill="#F8EFCB"/><text x="390" y="711" fill="#2E594A" text-anchor="middle">Starters</text>
+    <rect x="464" y="678" width="100" height="52" rx="25" fill="#F8EFCB"/><text x="514" y="711" fill="#2E594A" text-anchor="middle">Mains</text>
+    <rect x="575" y="678" width="105" height="52" rx="25" fill="#F8EFCB"/><text x="627" y="711" fill="#2E594A" text-anchor="middle">Desserts</text>
+  </g>
+  <text x="235" y="800" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2E594A">MENU</text>
+  <text x="673" y="800" font-family="Arial, sans-serif" font-size="15" fill="#888888" text-anchor="end">6 items</text>
+  <g>
+    <text x="235" y="855" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222222">Greek Salad</text>
+    <text x="235" y="891" font-family="Arial, sans-serif" font-size="17" fill="#666666">Crisp lettuce, peppers, olives</text>
+    <text x="235" y="917" font-family="Arial, sans-serif" font-size="17" fill="#666666">and feta</text>
+    <text x="235" y="957" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#2E594A">$12.99</text>
+    <rect x="565" y="838" width="105" height="105" rx="18" fill="#F8EFCB"/>
+    <circle cx="618" cy="890" r="27" fill="#2E594A" opacity=".9"/><path d="M602 890 Q617 866 635 879 Q634 900 611 908Z" fill="#F5C842"/>
+    <line x1="225" y1="982" x2="675" y2="982" stroke="#DDDDDD" stroke-width="2"/>
+  </g>
+  <g>
+    <text x="235" y="1037" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222222">Bruschetta</text>
+    <text x="235" y="1073" font-family="Arial, sans-serif" font-size="17" fill="#666666">Grilled bread with tomatoes</text>
+    <text x="235" y="1099" font-family="Arial, sans-serif" font-size="17" fill="#666666">and herbs</text>
+    <text x="235" y="1139" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#2E594A">$8.99</text>
+    <rect x="565" y="1020" width="105" height="105" rx="18" fill="#F8EFCB"/>
+    <rect x="588" y="1052" width="60" height="35" rx="8" fill="#D9A75D"/><circle cx="603" cy="1065" r="6" fill="#D44E3E"/><circle cx="628" cy="1077" r="6" fill="#D44E3E"/>
+    <line x1="225" y1="1164" x2="675" y2="1164" stroke="#DDDDDD" stroke-width="2"/>
+  </g>
+  <g>
+    <text x="235" y="1219" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222222">Grilled Fish</text>
+    <text x="235" y="1255" font-family="Arial, sans-serif" font-size="17" fill="#666666">Fresh fish with lemon and</text>
+    <text x="235" y="1281" font-family="Arial, sans-serif" font-size="17" fill="#666666">seasonal greens</text>
+    <text x="235" y="1321" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#2E594A">$18.99</text>
+    <rect x="565" y="1202" width="105" height="105" rx="18" fill="#F8EFCB"/>
+    <path d="M585 1254 Q615 1218 647 1254 Q615 1290 585 1254Z" fill="#2E594A"/><circle cx="627" cy="1250" r="4" fill="#F5C842"/>
+  </g>
+  <rect x="224" y="1400" width="452" height="250" rx="22" fill="#F4F2EC"/>
+  <text x="450" y="1470" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2E594A" text-anchor="middle">MAIN SCREEN WIREFRAME</text>
+  <text x="450" y="1512" font-family="Arial, sans-serif" font-size="16" fill="#666666" text-anchor="middle">Header · Hero · Menu Breakdown · Food List</text>
+  <text x="450" y="1552" font-family="Arial, sans-serif" font-size="15" fill="#888888" text-anchor="middle">Little Lemon iOS Capstone</text>
+  <text x="450" y="1692" font-family="Arial, sans-serif" font-size="14" fill="#888888" text-anchor="middle">Swipe to explore the menu</text>
+</svg>
